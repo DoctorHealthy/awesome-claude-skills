@@ -166,6 +166,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [Owner Statement Agent](https://github.com/Sokage-AI/owner-statement-agent) - Turns a property management month-end export into a plain-language owner update, checks the stated totals, stops when they do not tie out, and never sends anything. MIT licensed, 159 published test runs.
 
 ### Communication & Writing
 
